@@ -1,0 +1,32 @@
+# Development Dependencies for Birthmark Protocol
+
+# Testing
+pytest>=7.4.0  # Testing framework
+pytest-cov>=4.1.0  # Coverage reporting
+pytest-asyncio>=0.21.0  # Async test support
+pytest-mock>=3.12.0  # Mocking utilities
+hypothesis>=6.92.0  # Property-based testing
+
+# Code Quality
+black>=23.12.0  # Code formatting
+isort>=5.13.0  # Import sorting
+flake8>=6.1.0  # Linting
+mypy>=1.7.0  # Static type checking
+pylint>=3.0.0  # Additional linting
+
+# Documentation
+sphinx>=7.2.0  # Documentation generation
+sphinx-rtd-theme>=2.0.0  # Read the Docs theme
+mkdocs>=1.5.0  # Alternative doc generator
+mkdocs-material>=9.5.0  # Material theme for mkdocs
+
+# Development Tools
+ipython>=8.18.0  # Enhanced Python shell
+ipdb>=0.13.0  # Debugging
+pre-commit>=3.6.0  # Git hooks for quality checks
+
+# Build Tools
+build>=1.0.0  # Python package building
+twine>=4.0.0  # Package publishing (if needed later)
+setuptools>=69.0.0  # Package setup
+wheel>=0.42.0  # Wheel distribution format
