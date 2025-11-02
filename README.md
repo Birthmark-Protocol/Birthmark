@@ -209,7 +209,6 @@ Interested in supporting this work? Contact us at [samryan.pdx@proton.me](mailto
 
 ### Technical Documentation
 - [Invention Disclosure: Camera-Native Blockchain Verification](https://www.linkedin.com/pulse/invention-disclosure-camera-native-blockchain-digital-ryan-m-sc--dc3zc/) (October 2025)
-- [Community Feedback & Refined Value Proposition](link-when-published) (November 2025)
 
 ### Related Work
 - [C2PA Technical Specification](https://c2pa.org/specifications/specifications/1.0/specs/C2PA_Specification.html)
