@@ -67,7 +67,6 @@ We're building proof-of-concept implementations to demonstrate technical feasibi
 ### What We Have
 
 - [Technical architecture documentation](https://www.linkedin.com/pulse/invention-disclosure-camera-native-blockchain-digital-ryan-m-sc--dc3zc/) (published as prior art)
-- Community feedback analysis (article in progress)
 - Active discussions with photographers, security researchers, and potential partners
 
 ### What We Need
