@@ -6,7 +6,7 @@ This demonstrates the complete workflow without requiring pytest.
 
 from datetime import datetime
 import hashlib
-from blockchain import (
+from birthmark.blockchain import (
     MockBlockchain,
     get_blockchain_interface,
     record_to_blockchain,
