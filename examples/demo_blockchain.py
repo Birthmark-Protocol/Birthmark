@@ -3,6 +3,9 @@ Demo script for blockchain module.
 
 This demonstrates the complete workflow without requiring pytest.
 """
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent / 'src'))
 
 from datetime import datetime
 import hashlib
